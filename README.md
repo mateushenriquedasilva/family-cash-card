@@ -1,40 +1,40 @@
 # Family Cash Card 💰
 
-Family Cash Card is a simple application built using Spring Boot, Spring Web, Spring Data, and Spring Security. It provides a modern way for parents to manage their children's allowance funds.
+O Family Cash Card é um aplicativo simples desenvolvido utilizando Spring Boot, Spring Web, Spring Data e Spring Security. Ele oferece uma maneira moderna para os pais gerenciarem os fundos de mesada de seus filhos.
 
-## Features
+## Funcionalidades
 
-- **Allowance Management:** Parents can easily send and receive allowances for their children through the application.
-- **Expense Monitoring:** Real-time monitoring of children's expenses, providing insights into their spending habits.
-- **Limit Controls:** Set spending limits and restrictions for each child's cash card to promote healthy financial habits.
-- **Transaction History:** Detailed record of all transactions, allowing parents to review their children's spending history.
+- **Gerenciamento de Mesada:** Os pais podem facilmente enviar e receber mesadas para seus filhos através do aplicativo.
+- **Monitoramento de Despesas:** Monitoramento em tempo real das despesas dos filhos, fornecendo insights sobre seus hábitos de gastos.
+- **Controles de Limite:** Defina limites de gastos e restrições para cada cartão de mesada dos filhos para promover hábitos financeiros saudáveis.
+- **Histórico de Transações:** Registro detalhado de todas as transações, permitindo aos pais revisarem o histórico de gastos dos filhos.
 
-## Technologies Used
+## Tecnologias Utilizadas
 
 - Spring Boot
 - Spring Web
 - Spring Data
 - Spring Security
 
-## Getting Started
+## Como Começar
 
-1. Clone the repository.
-2. Configure the application properties according to your environment.
-3. Build and run the application.
-4. Access the application through the provided endpoints.
+1. Clone o repositório.
+2. Configure as propriedades da aplicação de acordo com o seu ambiente.
+3. Compile e execute a aplicação.
+4. Acesse a aplicação através dos endpoints fornecidos.
 
-## Usage
+## Utilização
 
-1. Register as a parent and add funds to your Family Cash Card account.
-2. Create virtual cash cards for each of your children, setting spending limits and restrictions as desired.
-3. Send allowances directly to your children's cash cards.
-4. Monitor your children's spending and adjust card settings as needed.
+1. Registre-se como um pai e adicione fundos à sua conta do Family Cash Card.
+2. Crie cartões de mesada virtuais para cada um de seus filhos, definindo limites de gastos e restrições conforme desejado.
+3. Envie mesadas diretamente para os cartões de mesada de seus filhos.
+4. Monitore os gastos de seus filhos e ajuste as configurações do cartão conforme necessário.
 
-## Security
+## Segurança
 
-- Spring Security provides authentication and access control to ensure the security of user data.
-- All sensitive data is encrypted to protect user privacy.
+- O Spring Security fornece autenticação e controle de acesso para garantir a segurança dos dados do usuário.
+- Todos os dados sensíveis são criptografados para proteger a privacidade do usuário.
 
-## Contributors
+## Contribuidores
 
-- [Matheus Henrique](https://github.com/mateushenriquedasilva)
+- [Matheus H](https://github.com/mateushenriquedasilva)
