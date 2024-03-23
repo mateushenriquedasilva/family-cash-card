@@ -1,4 +1,5 @@
 package br.com.rockerslab.familycashcard;
+    import org.springframework.data.annotation.Id;
 
-public record CashCard(Long id, Double amount) {
+public record CashCard(@Id Long id, Double amount) {
 }
